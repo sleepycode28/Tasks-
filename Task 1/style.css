@@ -381,11 +381,12 @@ header ul li a{
 
 /*CTA*/
 .cta {
-        background-color: #F6EEC9;
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 50px;
+    background-color: #F6EEC9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    text-align: center;
     
   }
   
